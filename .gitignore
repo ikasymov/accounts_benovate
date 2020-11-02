@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+venv/
+virtualenv
+*.pyc
+*.sqlite3
+*~
+settings_local.py
+static
+media
+.env
